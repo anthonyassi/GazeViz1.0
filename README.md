@@ -6,7 +6,7 @@ Gaze Tracking Visualization Tool
 
 ```
 Python 2
-Tkinter
+Tkinter *
 PIL Image, ImageDraw, ImageTk, ImageOps
 ```
 
