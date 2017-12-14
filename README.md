@@ -2,8 +2,6 @@
 
 Gaze Tracking Visualization Tool
 
-<center><img src="images/example_image.JPG" width="250"/></center>
-
 ## Prerequisites
 
 ```
