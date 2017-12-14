@@ -2,7 +2,6 @@
 
 Gaze Tracking Visualization Tool
 
-![Alt text](images/example_image.JPG?raw=true "Title")
 <img src="images/example_image.JPG" width="350"/>
 
 ## Prerequisites
