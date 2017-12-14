@@ -2,7 +2,7 @@
 
 Gaze Tracking Visualization Tool
 
-### Prerequisites
+## Prerequisites
 
 ```
 Python 2
